@@ -1,0 +1,24 @@
+{
+	"ver":"4.0",
+	"nev":"Informatika és távközlés technikum",
+	"info":{ "rov":"INF20t", "evek":"5", "kezd":"2020.09" },
+	"hetek":["36","36","36","36","31"],
+	"targyak":[
+		{"rov":"MVÁI","mk":"X", "tip":"EM", "ora":["000","018","000","000","000"], "nev":"Munkavállalói ismeretek"},
+		{"rov":"MVN", "mk":"X", "tip":"EM", "ora":["000","000","000","000","062"], "nev":"Munkavállalói idegen nyelv"},
+		{"rov":"ITA1","mk":"I", "tip":"GY", "ora":["108","000","000","000","000"], "nev":"Informatikai és távközlési alapok I."},
+		{"rov":"ITA2","mk":"I", "tip":"GY", "ora":["000","144","000","000","000"], "nev":"Informatikai és távközlési alapok II."},
+		{"rov":"PRA", "mk":"I", "tip":"GY", "ora":["072","072","000","000","000"], "nev":"Programozási alapok"},
+		{"rov":"IKT1","mk":"I", "tip":"GY", "ora":["054","108","000","000","000"], "nev":"IKT projektmunka I."},
+		{"rov":"IKT2","mk":"I", "tip":"GY", "ora":["000","000","108","108","000"], "nev":"IKT projektmunka II."},
+		{"rov":"AAF", "mk":"I", "tip":"GY", "ora":["000","000","144","144","000"], "nev":"Asztali alkalmazások fejlesztése"},
+		{"rov":"AB1", "mk":"I", "tip":"GY", "ora":["000","000","072","000","000"], "nev":"Adatbázis-kezelés I."},
+		{"rov":"AB2", "mk":"I", "tip":"GY", "ora":["000","000","000","000","062"], "nev":"Adatbázis-kezelés II."},
+		{"rov":"AMF", "mk":"I", "tip":"GY", "ora":["000","000","000","000","217"], "nev":"Asztali és mobil alkalmazások fejlesztése és tesztelése"},
+		{"rov":"SZFT","mk":"I", "tip":"GY", "ora":["000","000","000","072","000"], "nev":"Szoftvertesztelés"},
+		{"rov":"WEB", "mk":"I", "tip":"GY", "ora":["000","000","108","108","000"], "nev":"Webprogramozás"},
+		{"rov":"FPT", "mk":"I", "tip":"GY", "ora":["000","000","000","000","217"], "nev":"Frontend programozás és tesztelés"},
+		{"rov":"BPT", "mk":"I", "tip":"GY", "ora":["000","000","000","000","186"], "nev":"Backend programozás és tesztelés"},
+		{"rov":"SZAN","mk":"N", "tip":"EM", "ora":["000","000","072","072","000"], "nev":"Szakmai angol"}
+	]
+}
